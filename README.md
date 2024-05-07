@@ -1,1 +1,1 @@
-# TastyEats-FoodOrderingApp-UI-MAD
+# TastyEats-FoodOrderingApp-UI
